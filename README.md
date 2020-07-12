@@ -1,4 +1,4 @@
-# WiiControl
+# Modded WiiBalanceWalker
 
 Currently under development, this program will allow users to connect a Wii Balance Board (or multiple) or Wii Motes to their computer and use it to play games or for other tasks.
 
